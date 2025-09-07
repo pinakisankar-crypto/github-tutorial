@@ -26,3 +26,4 @@ git clone "repo link" or ctrl + shift + p on ur keyboard then the vs code will c
 //rename:- git branch -m "branch name"
 
 //navbar UI
+//pinaki sankar ray
