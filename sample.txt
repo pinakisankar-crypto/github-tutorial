@@ -16,3 +16,6 @@
 
 //how to clone
 git clone "repo link" or ctrl + shift + p on ur keyboard then the vs code will copy the repo for uh
+
+
+//designing the navbar
