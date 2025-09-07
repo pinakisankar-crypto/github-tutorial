@@ -22,3 +22,5 @@ git clone "repo link" or ctrl + shift + p on ur keyboard then the vs code will c
 
 //new branch :-  git branch <branch name>
 //switching branch:- git checkout <branch name>
+
+//created navbar ui
