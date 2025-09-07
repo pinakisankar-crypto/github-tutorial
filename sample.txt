@@ -15,5 +15,4 @@
         6: git push origin <branch name>
 
 //clone
-
 git clone "repo link" or ctrl + shift + p on ur keyboard then the vs code will copy the repo for uh
