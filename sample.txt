@@ -5,3 +5,11 @@
 //init 
 
     Initializing git 
+
+    methods: 
+        1: git init -> to initialize github
+        2: git add <file names>
+        3: git commit -m <commit message>
+        4: git branch -m <branch name (prefered name is main)
+        5: git remote add origin <repo link>
+        6: git push origin <branch name>
