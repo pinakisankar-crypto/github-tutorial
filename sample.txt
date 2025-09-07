@@ -1,0 +1,7 @@
+1 Initializing git : - 
+    1: clone
+    2: init
+
+//init 
+
+    Initializing git 
